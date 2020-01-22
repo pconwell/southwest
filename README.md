@@ -1,3 +1,7 @@
+100% a fork from: https://github.com/pyro2927/SouthwestCheckin
+
+I will be attempting to add a feature that will send you an email (or sms via email) once you have been checked in. It might be a little bit before I get to work on this.
+
 # SW Checkin
 
 [![Build Status](https://travis-ci.org/pyro2927/SouthwestCheckin.svg?branch=master)](https://travis-ci.org/pyro2927/SouthwestCheckin)
